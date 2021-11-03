@@ -5,6 +5,6 @@ int main(){
 }
 int fun1(){
 
-    return "hello";
+    return "hello world";
 
 }
