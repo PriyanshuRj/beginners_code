@@ -1,6 +1,4 @@
-// Name : Priyanshu Rajput
-// Roll. No. : 20BCS014
-// External practical  
+
 // Question : Write a program to sum the series -----1/1!+4/2!+27/3!+----------.
 
 #include<stdio.h>
