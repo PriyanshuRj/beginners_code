@@ -1,6 +1,4 @@
-// Name : Priyanshu Rajput
-// Roll. No. : 20BCS014
-// Internal practical  
+
 // Question : Write a program in C to count a total number of duplicate elements in an array.
 #include<stdio.h>
 // starting of main function
