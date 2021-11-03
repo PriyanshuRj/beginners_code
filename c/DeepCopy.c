@@ -1,5 +1,4 @@
-// This is quesion no.1 of assignment
-// submited by Priyanshu Rajput roll no. 20bcs014 
+// DeepCopy in array
 #include <stdio.h>
 int main()
 {
