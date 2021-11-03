@@ -1,6 +1,4 @@
-
-// This is quesion no.3 of assignment
-// submited by Priyanshu Rajput roll no. 20bcs014 
+// Code for array reversal
 #include<stdio.h>
 int main(){
     int num;
