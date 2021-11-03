@@ -1,5 +1,4 @@
-// This is quesion no.1 of assignment
-// submited by Priyanshu Rajput roll no. 20bcs014 
+// Function to calculate the average of a giver array
 #include<stdio.h>
 int main(){
     int num,sum=0;
