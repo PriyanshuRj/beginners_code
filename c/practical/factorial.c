@@ -1,3 +1,4 @@
+// code to calculate factorial
 #include<stdio.h>
 #include<conio.h>
 
