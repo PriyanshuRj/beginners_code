@@ -1,6 +1,4 @@
-
-// This is quesion no.2 of assignment
-// submited by Priyanshu Rajput roll no. 20bcs014 #include<stdio.h>
+// Generating array of random numbers
 #include<stdlib.h>
 int main() {
     int num;
